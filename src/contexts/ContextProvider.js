@@ -1,3 +1,5 @@
+/* eslint-disable implicit-arrow-linebreak */
+/* eslint-disable react/jsx-no-constructed-context-values */
 import React, { createContext, useContext, useState } from 'react';
 
 const StateContext = createContext();
